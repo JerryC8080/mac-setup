@@ -6,7 +6,7 @@ repo_url: https://github.com/JerryC8080/mac-setup
 
 docs_dir: source
 
-site_dir: docs
+site_dir: site
 
 copyright: 'Copyright (c) 2016 JerryC(huangjerryc@gmail.com)'
 
