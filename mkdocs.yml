@@ -1,0 +1,28 @@
+site_name: Mac Setup
+
+site_url: http://opener.meizu.com/wiki-coding/document
+
+docs_dir: docs
+
+copyright: 'Copyright (c) 2016 JerryC(huangjerryc@gmail.com)'
+
+theme: 'material'
+# theme: 'alabaster'
+
+pages:
+
+- 'Introduce': 'index.md'
+
+# meterial options
+extra:
+  palette:
+    primary: 'blue'
+    accent: 'light blue'
+  font: 'none'
+
+markdown_extensions:
+  - codehilite(css_class=code)
+  - admonition
+  - toc:
+      permalink: '#'
+
