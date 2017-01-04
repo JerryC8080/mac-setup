@@ -1,8 +1,12 @@
 site_name: Mac Setup
 
-site_url: http://opener.meizu.com/wiki-coding/document
+site_url: https://jerryc8080.github.io/mac-setup
 
-docs_dir: docs
+repo_url: https://github.com/JerryC8080/mac-setup
+
+docs_dir: source
+
+site_dir: docs
 
 copyright: 'Copyright (c) 2016 JerryC(huangjerryc@gmail.com)'
 
